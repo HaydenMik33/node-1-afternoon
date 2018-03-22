@@ -1,6 +1,6 @@
 const express = require('express');
 const bodyParser = require('body-parser');
-const mc = require( __dirname + '/controllers/messages_controller');
+const mc = require( __dirname + '/controllers/message_controller');
 
 const app = express();
 
